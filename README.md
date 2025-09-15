@@ -65,4 +65,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/danielarrudas/danielarrudas/output/pacman-contribution-graph.svg">
 </picture>
 
+<img src="https://raw.githubusercontent.com/danielarrudas/danielarrudas/output/snake.svg" alt="Snake animation" />
+
 ###
